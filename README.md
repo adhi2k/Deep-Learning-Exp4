@@ -31,9 +31,10 @@ STEP 8: We evaluate the trained model's performance using the testing data, gene
 STEP 9: We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
 
 ## PROGRAM
-### Name: Adhithya K
 
+### Name: Adhithya K
 ### Register Number: 2305002001
+
 ``` python
 import tensorflow as tf
 from tensorflow.compat.v1.keras.backend import set_session
